@@ -1,0 +1,2 @@
+def afficheOk():
+  print("ok")
