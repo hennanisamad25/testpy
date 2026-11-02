@@ -9,7 +9,3 @@ def Add(a,b,c):
 def diff(a,b):
     
     return a-b
-
-def estPaire(a):
-    
-    return a%2
